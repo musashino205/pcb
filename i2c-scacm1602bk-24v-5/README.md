@@ -2,6 +2,8 @@
 
 SUNLIKE SC1602BまたはZETTLER ACM1602K、およびそれらの各互換LCDをI2Cを通して使用するための基板
 
+![PCB](./i2c-scacm1602bk-24v-5.png)
+
 ## 動作確認済LCD
 
 |型番|概要|
